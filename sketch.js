@@ -10,8 +10,8 @@ var tree;
 var ground;
 function preload()
 {
-  timg = loadImage("Plucking mangoes/tree.png");
-  kimg = loadImage("Plucking mangoes/boy.png");
+  timg = loadImage("tree.png");
+  kimg = loadImage("boy.png");
 }
 
 function setup() {
